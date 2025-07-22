@@ -11,7 +11,9 @@ Due to size issue within github the drive link to the file
 https://drive.google.com/drive/folders/1uFUn3MtIHM18qcc_iFTsqT--5Hqdx68f?usp=drive_link
 
 There are a lot of data cleaning,csv data files and other utility folders used during the project timeline
-- To run the project go inside the BACKEND folder,open the selected sentiment_space Folder in vscode or anyother IDM
-- 
+- To run the project go inside the BACKEND folder,open the selected sentiment_space Folder in vscode or anyother IDM, please do install the requirements provided in the github repo
+- Replace the ML model path with your specfic location in views.py:- My path was:-final_save_path =r"D:\New folder\7thsemproject\sentiment140_sentiment_model_final"
+- To run the application:-  python manage.py runserver
+
 
 
