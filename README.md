@@ -1,5 +1,6 @@
-Sentiment Analyzer for Social Media Platforms
-Project Overview
+**Sentiment Analyzer for Social Media Platforms**
+=====================================================
+**Project Overview**
 Project Name: Sentiment Analyzer for Social Media
 Framework: Django (Python)
 Description:
